@@ -1,0 +1,29 @@
+/*FOOTER*/
+.footer__container {
+  height: 74px;
+  display: flex;
+}
+.footer__p1__container {
+  display: flex;
+  padding-top: 17px;
+  padding-bottom: 17px;
+  padding-left: 107px;
+}
+.footer__p1__image {
+  padding: 5px;
+  border-radius: 10px;
+  height: 54px;
+}
+.footer__p1__text-emphasis {
+  font-weight: 700;
+  padding-top: 15px;
+  font-size: 15px;
+  color: #000000;
+}
+.footer__p2__text {
+  font-weight: 400;
+  padding-left: 750px;
+  padding-top: 30px;
+  font-size: 15px;
+  color: #000000;
+}

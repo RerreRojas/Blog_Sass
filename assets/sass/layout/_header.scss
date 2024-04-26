@@ -1,0 +1,30 @@
+.brand-container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+  border-bottom: 1px solid #00000033;
+}
+
+.brand-container__image {
+  width: 3rem;
+  height: 3rem;
+}
+.header__container {
+  padding-top: 17px;
+  padding-bottom: 17px;
+  padding-left: 107px;
+  height: 74px;
+  display: flex;
+}
+//HEADER NOTICE SECTION
+.header__logo__image {
+  padding: 5px;
+  border-radius: 10px;
+  height: 54px;
+}
+.header__title-emphasis {
+  font-weight: 700;
+  padding-top: 15px;
+  font-size: 18px;
+}
